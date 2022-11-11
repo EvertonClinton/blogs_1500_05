@@ -1,7 +1,45 @@
 h1{
     width: 800px;
     height: 180px; 
-    background-color: blue;
+    background-color: rgb(85, 85, 255);
     margin: 0px auto 0px auto ;
+    text-align: center;
+}
+h2{
+    width: 800*px;
+    height: 180*px; 
+    background-color: *blue;
+    margin: 0px auto 0px auto ;
+    text-align: center;
+    
+}
+
+img{
+    margin: 0px 0px 0px 339px ;
+    
+    
+}
+a {
+    width: 180px;
+    height: 129px; 
+    background-color: rgb(166, 166, 237);
+    margin: auto auto auto auto ;
+    text-align: center;
+}
+
+time{
+    width: 800px;
+    height: 180px; 
+    background-color: *blue;
+    margin: 0px 0px 0px 580px ;
+    text-align: center;
+    
+}
+p{
+    width: 300px;
+    height: 180px; 
+    background-color: *blue;
+    margin: 0px 0px 0px 500px ;
+    text-align: ;
     
 }
