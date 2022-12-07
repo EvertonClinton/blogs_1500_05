@@ -44,6 +44,10 @@ p{
     
 }
 
+.canada {
+    margin: 50px 0px 50px 0px ;
+}
+
 /*************/
     /** #4 Tech Canada: Keep YouTube Yours ***********/
 /*************/
@@ -78,6 +82,8 @@ iframe{
     background-image: url(../image/microsoft-moi.jpg);
     text-align: top center;
     color: rgb(254, 253, 253);
+    margin-top: 50px;
+    padding-top: 50px;
 }
 .p5 {
     background-color: rgba(53, 32, 32, 0.654);
