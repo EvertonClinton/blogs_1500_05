@@ -67,3 +67,13 @@ iframe{
 }
 
 
+.site {
+    background-image: url(../image/microsoft-moi.jpg);
+    text-align: top center;
+    color: rgb(254, 253, 253);
+}
+.site p {
+    background-color: blue;
+}
+
+
