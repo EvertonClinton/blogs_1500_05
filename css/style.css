@@ -73,7 +73,14 @@ iframe{
     color: rgb(254, 253, 253);
 }
 .p5 {
-    background-color: blue;
+    background-color: rgba(53, 32, 32, 0.654);
+    width: 683px;
+    height: 600px;
+    margin: -205px 0px 0px 339px ;
+    text-align: center; 
+    font-weight: 600;
+    font-size: large;
+    
 }
 
 
